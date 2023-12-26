@@ -37,8 +37,8 @@
 ![WhatsApp Image 2023-12-19 at 21 52 04_79144aa1](https://github.com/Sajetha13/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849316/2d577d71-3060-4218-9d18-bbddd95099c9)
 
 
-### Name: S.Sajetha
-### Register Number: 23006123
+### Name: RAVIVARMAN G S
+### Register Number: 23006420
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
